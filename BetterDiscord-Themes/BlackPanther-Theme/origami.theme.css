@@ -7,8 +7,8 @@
 @import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/BlackPanther-Theme/code.css);
 :root {
 	/* background image URL */
-	--background-image: url('https://hdqwalls.com/wallpapers/black-panther-4k-movie-poster-vi.jpg') center/cover no-repeat;
-	/* default background image 'https://hdqwalls.com/wallpapers/black-panther-4k-movie-poster-vi.jpg */
+	--background-image: url('https://hdwallpapers.cat/wallpaper/tobiichi-origami-anime-maid-short-hair-date-8Hnb.jpg') center/cover no-repeat;
+	/* default background image 'https://hdwallpapers.cat/wallpaper/tobiichi-origami-anime-maid-short-hair-date-8Hnb.jpg */
 	/* Transparency */
     --transparency-level: rgba(0,0,0,0.20); 
 	/* transparency of top windows bar works different from the top one for some reason you have to try different values to match transparecy (aprox value is top value x 3 = result) */
